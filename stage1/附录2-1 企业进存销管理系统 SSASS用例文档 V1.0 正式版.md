@@ -38,6 +38,13 @@
 	</tr>
 	<tr>
 		<th></th>
+		<th>2017-1-6</th>
+		<th>正式版</th>
+		<th>V1.1正式版</th>
+	</tr>
+
+	<tr>
+		<th></th>
 		<th></th>
 		<th></th>
 		<th></th>
